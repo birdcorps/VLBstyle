@@ -54,7 +54,7 @@
 }
 .VLB_img
 {
-    margin: 4px 4px 4px 4px;
+    margin: 6px 8px 6px 8px;
     border: 1px solid black;
 }
 .VLB_imgLeftAlign
@@ -85,7 +85,7 @@
     max-width: 100%;
     flex-grow: 0;
     flex-shrink: 1;
-    margin: 4px 4px 4px 4px;
+    margin: 6px 6px 6px 6px;
 }
 
 .VLB_italicEm
