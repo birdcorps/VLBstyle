@@ -2,6 +2,11 @@ body{
     background: blue;
 }
 
+.VLB_h1
+{
+    font-size: 3em;
+    color: green;
+}
 .VLB_img
 {
     margin: 4px 4px 4px 4px;
