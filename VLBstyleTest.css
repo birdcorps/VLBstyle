@@ -4,6 +4,8 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: green;
+
 }
 
 .VLB_h1
@@ -22,7 +24,6 @@
 .VLB_p
 {
     font-size: 1.2em;
-    font-weight: bold;
     line-height: 1.5em;
     text-align: justify;
 }
@@ -35,7 +36,8 @@
 }
 .VLB_leadingCaps
 {
-    text-transform: uppercase;   
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .VLB_largeLink
