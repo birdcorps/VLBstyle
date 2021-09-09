@@ -1,0 +1,19 @@
+body{
+    background: blue;
+}
+
+.VLB_img
+{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+}
+.VLB_imgLeftAlign
+{
+    float: left;
+    clear: both;
+}
+.VLB_imgRightAlign
+{
+    float: right;
+    clear: both;
+}
