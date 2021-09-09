@@ -1,8 +1,9 @@
-.wrapper
+.VLB_wrapper
 {
     font-family:trebuchet ms, helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .VLB_h1
@@ -48,7 +49,6 @@
 
 .VLB_p
 {
-    font-family:trebuchet ms, helvetica, sans-serif;
     font-size: 1.1em;
     text-align: justify;
     height: auto;
@@ -82,10 +82,15 @@
 
 .VLB_flexElement
 {
-    margin: 4px 4px 4px 4px;
-    border: 1px solid black;
     min-width: 0;
     max-width: 100%;
     flex-grow: 0;
     flex-shrink: 1;
+    margin: 4px 4px 4px 4px;
+}
+
+.VLB_italicEm
+{
+    font-size: 12px;
+    text-align: center;
 }
