@@ -1,7 +1,3 @@
-body{
-    background: white;
-}
-
 .wrapper
 {
     font-family:trebuchet ms, helvetica, sans-serif;
@@ -30,6 +26,25 @@ body{
     text-align: justify;
 }
 
+.VLB_redEmphasize
+{
+    font-weight: bold;
+    color: #900;
+
+}
+.VLB_leadingCaps
+{
+    text-transform: uppercase;   
+}
+
+.VLB_largeLink
+{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #900;
+    text-decoration: none;
+}
+
 
 .VLB_p
 {
@@ -46,10 +61,31 @@ body{
 .VLB_imgLeftAlign
 {
     float: left;
-    clear: both;
+
 }
 .VLB_imgRightAlign
 {
     float: right;
-    clear: both;
+
+}
+
+.VLB_flexBox
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.VLB_flexElement
+{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    min-width: 0;
+    max-width: 100%;
+    flex-grow: 0;
+    flex-shrink: 1;
 }
