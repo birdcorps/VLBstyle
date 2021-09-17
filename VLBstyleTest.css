@@ -11,6 +11,8 @@
     font-size: 2.2em;
     font-weight: bold;
     color: #900;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 .VLB_h2
 {
@@ -54,7 +56,7 @@
 }
 .VLB_img
 {
-    margin: 6px 8px 6px 8px;
+    margin: 6px 8px 0px 8px;
     border: 1px solid black;
 }
 .VLB_imgLeftAlign
@@ -92,4 +94,11 @@
 {
     font-size: 12px;
     text-align: center;
+}
+
+.VLB_clearDiv
+{
+    clear: both;
+    margin-top: 2em;
+    overflow: auto
 }
