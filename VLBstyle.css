@@ -160,6 +160,12 @@
     padding-left: 2em;
 }
 
+ul.noBullet
+{
+    padding-left: 2em;
+    list-style-type: none;
+}
+
 .VLB_li
 {
     padding-bottom: 1em;
