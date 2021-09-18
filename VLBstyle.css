@@ -1,0 +1,139 @@
+.VLB_wrapper
+{
+    font-family:trebuchet ms, helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+.VLB_h1
+{
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #900;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.VLB_h2
+{
+    font-size: 2em;
+    font-weight: bold;
+    color: #900;
+}
+
+.VLB_p
+{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+.VLB_p_homepage
+{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: justify;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+
+.VLB_redEmphasize
+{
+    font-weight: bold;
+    color: #900;
+
+}
+.VLB_leadingCaps
+{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.VLB_largeLink
+{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #900;
+    text-decoration: none;
+}
+
+.VLB_smallLink
+{
+    font-size: 1em;
+    font-weight: bold;
+    color: #900;
+    text-decoration: none;
+}
+
+.VLB_p
+{
+    font-size: 1.1em;
+    text-align: justify;
+    height: auto;
+}
+.VLB_img
+{
+    margin: 6px 8px 6px 8px;
+    border: 1px solid black;
+}
+
+.VLB_assocImg
+{
+    margin: 0px 15px;
+}
+
+.VLB_imgLeftAlign
+{
+    float: left;
+
+}
+.VLB_imgRightAlign
+{
+    float: right;
+
+}
+
+.VLB_flexBox
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.VLB_flexElement
+{
+    min-width: 0;
+    max-width: 100%;
+    flex-grow: 0;
+    flex-shrink: 1;
+    margin: 6px 6px 6px 6px;
+}
+
+.VLB_italicEm
+{
+    font-size: 12px;
+    text-align: center;
+}
+
+.VLB_clearDiv
+{
+    clear: both;
+    margin-top: 2em;
+    overflow: auto
+}
+
+.VLB_ul
+{
+    padding-left: 2em;
+}
+
+.VLB_li
+{
+    padding-bottom: 1em;
+}
