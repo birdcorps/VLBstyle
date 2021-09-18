@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    text-decoration: none;
 }
 
 .VLB_h1
@@ -53,6 +54,14 @@
 .VLB_largeLink
 {
     font-size: 1.4em;
+    font-weight: bold;
+    color: #900;
+    text-decoration: none;
+}
+
+.VLB_smallLink
+{
+    font-size: 1em;
     font-weight: bold;
     color: #900;
     text-decoration: none;
