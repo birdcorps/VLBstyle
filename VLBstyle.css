@@ -76,7 +76,7 @@
 
 .VLB_ourStore_p
 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     text-align: justify;
     height: auto;
 }
@@ -87,9 +87,9 @@
     border: 1px solid black;
 }
 
-.VLB_assocImg
+.VLB_ourStore_img
 {
-    margin: 0px 15px 0px 15px;
+    margin: 0px 12px 0px 12px;
 }
 
 .VLB_imgLeftAlign
