@@ -43,12 +43,18 @@
     text-align: justify;
 }
 
+.VLB_pCenter
+{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
 .VLB_pLarge
 {
     font-size: 1.3em;
-    line-height: 1.6em;
+    line-height: 1.5em;
     text-align: justify;
-    background-color: greenyellow;
 }
 
 .VLB_finePrint
