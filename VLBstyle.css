@@ -45,25 +45,10 @@
 
 .VLB_pLarge
 {
-    font-size: 1.5em;
-    line-height: 1.8em;
+    font-size: 1.3em;
+    line-height: 1.6em;
     text-align: justify;
     background-color: greenyellow;
-}
-
-.VLB_p_weird
-{
-    font-size: 5em;
-    line-height: 1.5em;
-    text-align: justify;
-}
-
-.VLB_center
-{
-    font-size: 1.2em;
-    line-height: 1.5em;
-    text-align: justify;
-    color: blue;
 }
 
 .VLB_finePrint
