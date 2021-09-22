@@ -43,11 +43,11 @@
     text-align: justify;
 }
 
-.VLB_text
+.VLB_center
 {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.5em;
-    color: green;
+    text-align: center;
 }
 
 .VLB_finePrint
