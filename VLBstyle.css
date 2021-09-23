@@ -197,17 +197,10 @@ ul.noBullet
 
 .VLB_li
 {
-    padding-bottom: 1em;
-    
-}
-
-.VLB_ulPolicy
-{
-    padding-left: 2em;
-    text-align: left;
+    padding-bottom: 1em; 
 }
 
 .VLB_liPolicy
 {
-    
+    padding-bottom: 2em; 
 }
