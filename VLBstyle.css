@@ -59,7 +59,7 @@
 
 .VLB_finePrint
 {
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.5em;
     text-align: justify;
 }
@@ -187,14 +187,27 @@
     padding-left: 2em;
 }
 
+
 ul.noBullet
 {
     padding-left: 2em;
     list-style-type: none;
 }
 
+
 .VLB_li
 {
     padding-bottom: 1em;
+    
+}
+
+.VLB_ulPolicy
+{
+    padding-left: 2em;
+    text-align: left;
+}
+
+.VLB_liPolicy
+{
     
 }
